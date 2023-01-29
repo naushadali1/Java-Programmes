@@ -13,4 +13,3 @@ public class FindIntegerOrNot {
        sc.close();
     }
         }
-    

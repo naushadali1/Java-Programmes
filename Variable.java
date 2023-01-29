@@ -11,7 +11,5 @@ public class Variable {
       int num2 =sc.nextInt();
       int sum =num1+num2;
       System.out.println(sum);
-
-
     }
 }
